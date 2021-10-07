@@ -1,0 +1,3 @@
+[console_scripts]
+google_meet = src.google_meet
+
